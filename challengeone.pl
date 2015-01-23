@@ -1,5 +1,4 @@
-#perl program
-
+#First Ever Challenge They Uploaded!! (Warning: Extremely Easy) :P
 print "What's your name?\n";
 
 $name = <>;

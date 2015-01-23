@@ -3,6 +3,7 @@
 	Reddit.com/r/dailyprogrammer 
 	by Anthony Plescia
 
+	Use at your own discretion :P
 """
 #returns a list containing the digits of a number
 def getDigits(x):
